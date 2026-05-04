@@ -1,7 +1,5 @@
 package p2;
 
-import java.util.scanner;
-
 public class latihanp2 {
 
     public static void main(String[] args) {

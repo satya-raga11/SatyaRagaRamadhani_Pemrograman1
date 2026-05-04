@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "tugasp7",
+            "request": "launch",
+            "mainClass": "p7.tugasp7",
+            "projectName": "pemrograman 1_45b50c8"
+        },
+        {
+            "type": "java",
+            "name": "HitungNilaiMahasiswa",
+            "request": "launch",
+            "mainClass": "p7.HitungNilaiMahasiswa",
+            "projectName": "pemrograman 1_45b50c8"
+        },
+        {
+            "type": "java",
+            "name": "latihan1",
+            "request": "launch",
+            "mainClass": "p6.latihan1",
+            "projectName": "pemrograman 1_45b50c8"
+        },
+        {
+            "type": "java",
+            "name": "latihanp1",
+            "request": "launch",
+            "mainClass": "latihanp1",
+            "projectName": "pemrograman 1_45b50c8"
+        },
+        {
+            "type": "java",
+            "name": "CekBilanganGanjilGenap",
+            "request": "launch",
+            "mainClass": "p5.CekBilanganGanjilGenap",
+            "projectName": "pemrograman 1_45b50c8"
+        },
+        {
+            "type": "java",
+            "name": "MenghitungJumlahNilai",
+            "request": "launch",
+            "mainClass": "p8.MenghitungJumlahNilai",
+            "projectName": "pemrograman 1_45b50c8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
