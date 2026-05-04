@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "latihan2p9",
+            "request": "launch",
+            "mainClass": "p9.latihan2p9",
+            "projectName": "pemrograman 1_45b50c8"
+        },
+        {
+            "type": "java",
+            "name": "latihan1p9",
+            "request": "launch",
+            "mainClass": "p9.latihan1p9",
+            "projectName": "pemrograman 1_45b50c8"
+        },
+        {
+            "type": "java",
+            "name": "l1",
+            "request": "launch",
+            "mainClass": "p9.l1",
+            "projectName": "pemrograman 1_45b50c8"
+        },
+        {
+            "type": "java",
+            "name": "latihan1_p9",
+            "request": "launch",
+            "mainClass": "p9.latihan1_p9",
+            "projectName": "pemrograman 1_45b50c8"
+        },
+        {
+            "type": "java",
             "name": "tugasp7",
             "request": "launch",
             "mainClass": "p7.tugasp7",
